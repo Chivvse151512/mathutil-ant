@@ -1,4 +1,4 @@
-# Welcome to Mth Utility Repository
+# Welcome to Math Utility Repository
 ### You will find in this repo the fllowing stuff(java source code):
 
 * A demonstration of using static to create a custom Math library
@@ -8,4 +8,4 @@ and DDT
 and Ant build tool
 
 ### Connect me via vchi1201@gmail.com
-#### Copyright &#169 2023 chivv
+#### Copyright &#169; 2023 chivv
